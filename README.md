@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am currently trying out godot-rust
+Currently exploring the Rust programming language

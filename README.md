@@ -1,2 +1,2 @@
 ### Hi there 👋
-Currently working on collaborative worldbuilding and gamedev + utility and productivity tools for my own use  
+Currently using my spare time working on collaborative worldbuilding and gamedev while exploring [Rustlang](https://www.rust-lang.org/) + utility and productivity tools for my own use  

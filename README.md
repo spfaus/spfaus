@@ -10,8 +10,6 @@ Currently using my spare time working on collaborative worldbuilding and gamedev
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spfaus&show_icons=true&count_private=true&theme=tokyonight)
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=spfaus&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spfaus&theme=tokyonight)
  
 ## Free jokes!
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)

@@ -7,8 +7,6 @@ Currently using my spare time working on collaborative worldbuilding and gamedev
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://github.com/spfaus/arch-install)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spfaus&show_icons=true&count_private=true&theme=tokyonight)
-
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=spfaus&theme=tokyonight)
  
 ## Free jokes!
